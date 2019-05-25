@@ -1,0 +1,2 @@
+# kadai1
+Route::get('XXX','Bbb\AAAController@add');
